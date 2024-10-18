@@ -7,6 +7,7 @@ The classic 2048 game solved in real time with AI using an Expectimax algorithm.
 - **Graphical User Interface (GUI):** Built with Tkinter, the game displays the AI Agent's attempt at solving the puzzle.
 - **Export Move to .txt:** Added ability to export the AI's moves to a .txt file for further analysis.
 - **Artificial Intelligence:** AI using an Expectimax Search algorithm to find the most suitable move in an environment that is both known and random.
+<img width="906" alt="Screenshot 2024-10-16 at 8 55 30 PM" src="https://github.com/user-attachments/assets/4c4d2258-5ed1-4f9c-9db2-3ab4006fdd16">
 
 ## 🚀 Getting Started
 
